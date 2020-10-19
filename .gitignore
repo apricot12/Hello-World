@@ -1,1 +1,4 @@
 test.md
+node_modules
+.stylelintrc.json
+package-lock.json
